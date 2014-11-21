@@ -1,0 +1,14 @@
+/* Test select in a single table **/
+load students;
+load enrolled;
+load schedule;
+/* without condition **/
+select SID, Firstname from students;
+/* with multiple conditions and with condition of two columns **/
+select Firstname, Lastname from students
+		where Major = 'EECS' and YearEnter = YearEnter;
+/* with single condition **/
+select Firstname, Lastname from students
+		where YearEnter < '2004';
+quit;
+

@@ -1,0 +1,15 @@
+/* Test selectStatement with two tables */
+load students;
+load enrolled;
+load schedule;
+/* Test select from two related tables, without condition */
+select SID, Lastname, Firstname, CCN, Grade from students, enrolled;
+
+
+/* Test the Cartesian product result when no common columns with condition*/
+select SID, Firstname, Lastname, Major, CCN from students, schedule
+     where Lastname = 'Chan';
+
+/* Test select from unrelated tables, supplying two column condition */
+select Firstname, Lastname, Room, Year from students, schedule where Dept = Major;
+quit;

@@ -1,0 +1,56 @@
+DB61B System.  Version 1.0
+Loaded students.db
+Loaded enrolled.db
+Loaded schedule.db
+Search results:
+ 101 Knowles Jason 21228 B
+ 102 Chan Valerie 21231 A
+ 102 Chan Valerie 21105 A-
+ 106 Chan Yangfan 21001 B
+ 101 Knowles Jason 21001 B
+ 102 Chan Valerie 21229 A
+ 101 Knowles Jason 21232 A-
+ 106 Chan Yangfan 21103 A
+ 104 Armstrong Thomas 21228 A-
+ 104 Armstrong Thomas 21229 B+
+ 106 Chan Yangfan 21231 A
+ 105 Brown Shana 21001 B+
+ 105 Brown Shana 21228 A
+ 104 Armstrong Thomas 21105 A-
+ 101 Knowles Jason 21105 B+
+ 103 Xavier Jonathan 21005 B+
+ 102 Chan Valerie 21001 B+
+ 104 Armstrong Thomas 21005 A-
+ 103 Xavier Jonathan 21105 B+
+Search results:
+ 106 Yangfan Chan LSUnd 21228
+ 102 Valerie Chan Math 21228
+ 102 Valerie Chan Math 21229
+ 102 Valerie Chan Math 21005
+ 106 Yangfan Chan LSUnd 21229
+ 106 Yangfan Chan LSUnd 21232
+ 102 Valerie Chan Math 21001
+ 106 Yangfan Chan LSUnd 21231
+ 102 Valerie Chan Math 21103
+ 106 Yangfan Chan LSUnd 21103
+ 106 Yangfan Chan LSUnd 21005
+ 102 Valerie Chan Math 21231
+ 106 Yangfan Chan LSUnd 21105
+ 106 Yangfan Chan LSUnd 21001
+ 102 Valerie Chan Math 21105
+ 102 Valerie Chan Math 21232
+Search results:
+ Valerie Chan 1 Pimentel 2004
+ Shana Brown 1 Pimentel 2004
+ Shana Brown 1 Pimentel 2003
+ Thomas Armstrong 155 Dwinelle 2003
+ Jason Knowles 1 Pimentel 2003
+ Jason Knowles 1 Pimentel 2004
+ Jason Knowles 2050 VLSB 2004
+ Thomas Armstrong 1 Pimentel 2003
+ Thomas Armstrong 1 Pimentel 2004
+ Shana Brown 2050 VLSB 2004
+ Jason Knowles 155 Dwinelle 2003
+ Valerie Chan 2050 VLSB 2003
+ Shana Brown 155 Dwinelle 2003
+ Thomas Armstrong 2050 VLSB 2004
