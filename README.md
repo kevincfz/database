@@ -18,6 +18,7 @@ java db61b.Main
 - insert
 - print
 - select with condition
+
 *For detailed specification, please read Specification.pdf, written by Professor Hilfinger.*
 
 <sub>*Note: This is a CS 61B course project of University of California, Berkeley* </sub>
