@@ -2,9 +2,7 @@ database 61b
 =========
 
 #####A simple SQL database implemented with Java.
-
 ######To run this game, first run the following to compile:
-
 ```bash
 make clean
 make
@@ -14,8 +12,6 @@ make
 java db61b.Main
 ```   
 ######This database supports the following SQL functions:
-<sub>*For detailed specification, please read Specification.pdf, written by Professor Hilfinger.* </sub>
-
 - creat
 - load
 - store
@@ -23,6 +19,6 @@ java db61b.Main
 - print
 - select with condition
 
-
+<sub>*For detailed specification, please read Specification.pdf, written by Professor Hilfinger.* </sub>
 
 <sub>*Note: This is a CS 61B course project of University of California, Berkeley* </sub>
