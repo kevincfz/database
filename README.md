@@ -16,12 +16,12 @@ java db61b.Main
 ######This database supports the following SQL functions:
 <sub>*For detailed specification, please read Specification.pdf, written by Professor Hilfinger.* </sub>
 
--creat
--load
--store
--insert
--print
--select with condition
+- creat
+- load
+- store
+- insert
+- print
+- select with condition
 
 
 
