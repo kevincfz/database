@@ -1,4 +1,4 @@
-database 61b
+database
 =========
 
 #####A simple SQL database implemented with Java.
